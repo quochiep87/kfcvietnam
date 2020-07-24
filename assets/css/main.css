@@ -139,6 +139,7 @@ header{
 
 .navbar_menu-cart{
     position: relative;
+    display: block;
 }
 
 .navbar_menu-cart-icon{
@@ -176,6 +177,8 @@ header{
   /* Hide the images by default */
   .slideshow_container-sub {
     display: none;
+    cursor: pointer;
+    text-decoration: none;
   }
   
 
